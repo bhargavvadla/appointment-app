@@ -128,7 +128,6 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 30px;
 }
 
 .menu-heading {
@@ -198,27 +197,7 @@
   .appointment-image {
     width: 49%;
     display: block;
-  } */
-/* .appointment-form { */
-/* height: 100%;
-    width: 45%;
-    max-width: 320px;
-    display: flex;
-    flex-direction: column;
-    width: 85%;
-    max-width: 500px; */
-/* padding: 40px; */
-/* width: 45%;
-    max-width: 320px;
-  } */
-
-/* .input-label {
-    font-size: 16px;
-  }
-  .input {
-    font-size: 14px;
-  } */
-/* }  */
+  } 
 /*
 Hex: #9796f0
 Hex: #fbc7d4
