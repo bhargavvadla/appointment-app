@@ -15,11 +15,16 @@ p {
   width: 100%;
   margin-top: 20px;
 }
+.list-text-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 992px) {
   .appointment-list-item {
     width: 30%;
-    margin-right: 25px;
+    margin-right: 20px;
   }
 }
 .appointment-title {
